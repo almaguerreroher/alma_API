@@ -4,41 +4,43 @@
  {
     "nombre": "Boys Over Flowers",
     "descripcion": "También conocida en Español como Los chicos son mejores que las flores, es una serie de televisión surcoreana transmitida por KBS 2TV desde el 5 de enero hasta el 31 de marzo de 2009.Boys Over Flowers se centra en un romance que ocurre en una escuela secundaria donde conviven los hijos de las familias con gran poder económico de Corea del Sur,"
-    "imagen":"" 
-    }
+    "imagen": "imagenes/boys over flawers.png" 
+
+    },
 
 
  {
     "nombre": "Geum Jna Di",
     "descripcion": "Geum Jan Di es una chica humilde cuya familia es propietaria de una tintorería. Un día, mientras realiza una entrega para un estudiante de la prestigiosa Escuela Superior Shin Hwa (escuela para ricos) se percata que un chico se iba a suicidar desde la azotea por obtener la tarjeta roja de los F4 y justo en el preciso momento en el que salta, Geum Jan Di le salva la vida al detenerlo y es llamada La chica/mujer maravilla. Este acto generó gran controversia en la ciudad, por lo cual es becada para asistir a la escuela. Al principio es maltratada y aislada por los demás estudiantes al recibir la tarjeta roja de los F4 (4 flores), que es un grupo de alumnos que gobiernan cruelmente la escuela por su belleza y riqueza. Gu Jun Pyo, líder de los F4 y sucesor de la Compañía Shinhwa, empieza a tener sentimientos hacia Geum Jan Di. Yoon Ji Hoo también se enamora de Geum Jan Di, pero antes de que se diera cuenta de que estaba enamorado de ella,pero poco a poco se enamora de Jan Di y se provoca un triangulo amoroso.",
-    "imagen": ""
+    "imagen": "imagenes/geum jan di.png"
  },
 
  {
     "nombre": "Gu Jun Pyo",
     "descripcion": "Gu Jun Pyo es el líder de F4, así como el heredero del Grupo Shinhwa, uno de los grupos empresariales más poderosos de Corea del Sur. Criado por su hermana mayor y criados, creció para ser persona arrogante y presuntuosa que creía que no había nada que no pudiera hacerse con dinero. En el fondo, sin embargo, tiene un corazón de oro que no se puede expresar fácilmente debido a la constante enmascaramiento de su soledad y su ansia de atención familiar con orgullo y presunción.La perspectiva de Jun Pyo cambia cuando un estudiante de transferencia a Shinhwa High llamado Geum Jan Di desafía sus creencias. ",
-    } 
-    "imagen": ""
- },
+    "imagen" : "imagenes/gu jun pyo.png"
+    },
+    
+ 
 
 
 {
     "nombre": "Yoon Ji Hoo",
     "descripcion": "Ji-hoo nació en una familia rica e ilustre. Su abuelo, Yoon Seok-young, se destacó por ser el presidente de Corea del Sur. A la edad de cinco años, fue el único sobreviviente de un accidente automovilístico que resultó en la muerte de sus padres.[2] Después del accidente, Ji-hoo desarrolló síntomas de autismo y tenía problemas para llevarse bien con los demás. Fue Min Seo-hyun quien lo ayudó a salir de su caparazón y se convirtió en su primer amor y en una figura materna. Casi al mismo tiempo, durante el jardín de infancia, Ji-hoo se hizo amigo de Gu Jun-pyo, Song Woo-bin y So Yi-jung.",
-    "imagen": ""
+    "imagen": "imagenes/yon ji hoo.png"
  },
 
  {
     "nombre": "So Yi Jeong",
     "descripcion": "La cerámica de Yi-jung se hizo popular en su adolescencia. De hecho, a los dieciséis años, su obra se mostró en la Bienal. Además, en ese momento, Yi-jung y sus amigos se hicieron conocidos como F4. Pudieron usar su influencia para controlar la escuela, permitiéndoles hacer lo que quisieran. Los estudiantes que se opusieran a ellos recibirían una tarjeta roja y serían intimidados por los demás estudiantes hasta que abandonaran la escuela.",
-    "imagen": ""
+    "imagen": "imagenes/son yi jeong.png"
  },
 
 
  {
     "nombre": "Song Woo Bin",
-    "descripcion": "La familia de Woo-bin fundó Il-Sim Construction, considerado el "blue chip" de la industria de la construcción, y eran ricos magnates inmobiliarios. También se rumoreaba que su familia tenía conexiones con la mafia.[2] Woo-bin se hizo amigo de So Yi-jung, Gu Jun-pyo y Yoon Ji-hoo en el jardín de infancia. Se hicieron amigos de Min Seo-hyun al mismo tiempo.",
-    "imagen": ""
+    "descripcion": "La familia de Woo-bin fundó Il-Sim Construction, considerado el blue chip de la industria de la construcción, y eran ricos magnates inmobiliarios. También se rumoreaba que su familia tenía conexiones con la mafia.[2] Woo-bin se hizo amigo de So Yi-jung, Gu Jun-pyo y Yoon Ji-hoo en el jardín de infancia. Se hicieron amigos de Min Seo-hyun al mismo tiempo.",
+    "imagen": "imagenes/song woo bin.png"
  }
 
 ]
